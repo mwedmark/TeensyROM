@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "TeensyROM-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/TeensyROM-eagle-import.kicad_sym")(options "")(descr ""))
+)

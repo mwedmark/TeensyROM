@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "TeensyROM")(type "KiCad")(uri "$(KIPRJMOD)/TeensyROM.pretty")(options "")(descr ""))
+  (lib (name "292303-1")(type "KiCad")(uri "C:/Users/Magnus/Downloads/292303-1")(options "")(descr ""))
+)
